@@ -1,4 +1,4 @@
-# Enterprise Network Security Hardening — Case Study
+# Enterprise Network Security Hardening - Case Study
 
 ## Objective
 To assess a weakly configured enterprise network against standard security baselines and implement a layered set of controls (logging, access control, intrusion prevention, firewalling, secure management, and encrypted connectivity) that collectively restrict unauthorised access, enable visibility into network activity, and secure communication between sites, while verifying each control through hands-on testing rather than configuration alone.
