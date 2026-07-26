@@ -4,10 +4,10 @@
 To assess a weakly configured enterprise network against standard security baselines and implement a layered set of controls (logging, access control, intrusion prevention, firewalling, secure management, and encrypted connectivity) that collectively restrict unauthorised access, enable visibility into network activity, and secure communication between sites, while verifying each control through hands-on testing rather than configuration alone.
 
 ### Skills Learned
-Auditing a live network configuration against expected security baselines and identifying gaps
-Designing and implementing centralised logging (Syslog) across routers and switches, including routing traffic to a log server with no native path to it
-Enforcing secure administrative access through console and privileged-mode authentication
-Deploying a signature-based Intrusion Prevention System (IPS) at a network's central point of traffic convergence
+* Auditing a live network configuration against expected security baselines and identifying gaps
+* Designing and implementing centralised logging (Syslog) across routers and switches, including routing traffic to a log server with no native path to it
+* Enforcing secure administrative access through console and privileged-mode authentication
+* Deploying a signature-based Intrusion Prevention System (IPS) at a network's central point of traffic convergence
 Writing and applying Access Control Lists (ACLs) to restrict traffic from untrusted networks into a DMZ
 Designing a Zone-Based Policy Firewall (ZPF): defining security zones, assigning interfaces, and writing explicit policy maps to control traffic between zones
 Configuring SNMPv3 for secure, authenticated device management
