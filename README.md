@@ -17,10 +17,10 @@ To assess a weakly configured enterprise network against standard security basel
 * Translating enterprise network segmentation principles (zones, conduits, least-privilege access) into concepts directly transferable to OT/ICS environments and IEC 62443
 
 ### Tools Used
-Simulation platform: Cisco Packet Tracer
-Device OS: Cisco IOS (routers and switches)
-Protocols: TCP/IP, NAT, Syslog, SNMPv3, NTP (MD5-authenticated), IPsec/ISAKMP, DNS, HTTP/HTTPS, ICMP
-Security controls: IPS (signature-based), ACLs, Zone-Based Policy Firewall (ZPF)
+* Simulation platform: Cisco Packet Tracer
+* Device OS: Cisco IOS (routers and switches)
+* Protocols: TCP/IP, NAT, Syslog, SNMPv3, NTP (MD5-authenticated), IPsec/ISAKMP, DNS, HTTP/HTTPS, ICMP
+* Security controls: IPS (signature-based), ACLs, Zone-Based Policy Firewall (ZPF)
 
 ## Visual Evidence
 
