@@ -23,7 +23,7 @@ Protocols: TCP/IP, NAT, Syslog, SNMPv3, NTP (MD5-authenticated), IPsec/ISAKMP, D
 Security controls: IPS (signature-based), ACLs, Zone-Based Policy Firewall (ZPF)
 
 ## Visual Evidence
-Network Topology Full Callister Inc. diagram, the lead image for both GitHub and LinkedIn.
+Network Topology Full Callister Inc. diagram.
 
 Show Image
 
