@@ -25,7 +25,8 @@ Security controls: IPS (signature-based), ACLs, Zone-Based Policy Firewall (ZPF)
 ## Visual Evidence
 Network Topology Full Callister Inc. diagram.
 
-Show Image
+<img width="497" height="713" alt="image" src="https://github.com/user-attachments/assets/710fe610-ca8b-4029-8362-2530d944752c" />
+
 
 Firewall Zone Creation CLI config defining the INTERNAL/PUBLIC/DMZ zones.
 
