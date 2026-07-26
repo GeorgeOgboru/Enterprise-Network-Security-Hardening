@@ -8,13 +8,13 @@ To assess a weakly configured enterprise network against standard security basel
 * Designing and implementing centralised logging (Syslog) across routers and switches, including routing traffic to a log server with no native path to it
 * Enforcing secure administrative access through console and privileged-mode authentication
 * Deploying a signature-based Intrusion Prevention System (IPS) at a network's central point of traffic convergence
-Writing and applying Access Control Lists (ACLs) to restrict traffic from untrusted networks into a DMZ
-Designing a Zone-Based Policy Firewall (ZPF): defining security zones, assigning interfaces, and writing explicit policy maps to control traffic between zones
-Configuring SNMPv3 for secure, authenticated device management
-Implementing authenticated NTP (MD5) to establish a single trusted time source across a network
-Building a site-to-site VPN using IPsec with AES encryption and pre-shared key authentication
-Validating security controls through structured connectivity testing (ping, PDU tracing) rather than relying on configuration alone
-Translating enterprise network segmentation principles (zones, conduits, least-privilege access) into concepts directly transferable to OT/ICS environments and IEC 62443
+* Writing and applying Access Control Lists (ACLs) to restrict traffic from untrusted networks into a DMZ
+* Designing a Zone-Based Policy Firewall (ZPF): defining security zones, assigning interfaces, and writing explicit policy maps to control traffic between zones
+* Configuring SNMPv3 for secure, authenticated device management
+* Implementing authenticated NTP (MD5) to establish a single trusted time source across a network
+* Building a site-to-site VPN using IPsec with AES encryption and pre-shared key authentication
+* Validating security controls through structured connectivity testing (ping, PDU tracing) rather than relying on configuration alone
+* Translating enterprise network segmentation principles (zones, conduits, least-privilege access) into concepts directly transferable to OT/ICS environments and IEC 62443
 
 ### Tools Used
 Simulation platform: Cisco Packet Tracer
