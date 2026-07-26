@@ -28,15 +28,20 @@ Security controls: IPS (signature-based), ACLs, Zone-Based Policy Firewall (ZPF)
 
 <img width="497" height="713" alt="image" src="https://github.com/user-attachments/assets/710fe610-ca8b-4029-8362-2530d944752c" />
 
+<img width="566" height="778" alt="image" src="https://github.com/user-attachments/assets/bc3a6a2f-40cc-4d16-876e-b388250f978b" />
 
-Firewall Zone Creation CLI config defining the INTERNAL/PUBLIC/DMZ zones.
+<img width="557" height="787" alt="image" src="https://github.com/user-attachments/assets/b95f882b-8e3c-440d-8c54-fb32747be7de" />
 
-Show Image
+<img width="595" height="782" alt="image" src="https://github.com/user-attachments/assets/a3fb2d9c-ebc3-496f-8b53-58b7bc35ed9e" />
 
-Firewall Zone Interface Assignment Mapping interfaces to zones, completing the ZPF configuration.
+<img width="578" height="811" alt="image" src="https://github.com/user-attachments/assets/9547fee4-3e23-4459-b02e-64762b248b32" />
 
-Show Image
+<img width="580" height="806" alt="image" src="https://github.com/user-attachments/assets/9748b700-eb44-47ee-a04e-409982cd2684" />
 
-Zone Policy in Action — Before and After Manchester–DMZ allowed, Cambridge–DMZ blocked: the pair proving the zone policy worked exactly as designed, and the strongest evidence in the whole report.
+<img width="587" height="787" alt="image" src="https://github.com/user-attachments/assets/e7b1e7e1-67f4-4a2a-831c-49e068059b2d" />
 
-Show Image Show Image
+<img width="567" height="790" alt="image" src="https://github.com/user-attachments/assets/d9ea7bbc-0fdb-47ff-a831-96ef4b0d4010" />
+
+<img width="575" height="811" alt="image" src="https://github.com/user-attachments/assets/4a270481-cce9-497a-9f53-5fee56d4213a" />
+
+
