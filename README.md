@@ -22,7 +22,9 @@ To assess a weakly configured enterprise network against standard security basel
 * Protocols: TCP/IP, NAT, Syslog, SNMPv3, NTP (MD5-authenticated), IPsec/ISAKMP, DNS, HTTP/HTTPS, ICMP
 * Security controls: IPS (signature-based), ACLs, Zone-Based Policy Firewall (ZPF)
 
+
 ## Visual Evidence
+
 
 <img width="487" height="691" alt="Screenshot 2026-07-26 042212" src="https://github.com/user-attachments/assets/c15910e1-bf21-40e4-8996-c08bfab6ee6b" />
 
